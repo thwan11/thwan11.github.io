@@ -27,7 +27,7 @@ author:
   bio              : "Undergraduate student"
   location         : "Seoul, Republic of Korea"
   employer         : "Chung-Ang University"
-  uri              : "https://thwan11.github.io"
+  uri              : #"https://thwan11.github.io"
   email            : "dmkthwan11@gmail.com" 
 
   # Academic websites
