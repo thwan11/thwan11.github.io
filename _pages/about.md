@@ -25,6 +25,16 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 
 
 ## Honors and Awards
+- Chung-Ang University Alumni Association Schollarship Fellowship (2024), Winner - ₩1,000,000
+- Seoul Scholarship Foundation Fellowship (2024), Winner - ₩4,000,000
+- 54th The Korea Scholarship Foundation for the Future Leaders Fellowship, 2024, Winner - ₩11,000,000 (total)
+- Dean’s List, CAU (2022 Fall, 2023 Spring, 2023 Fall) - ₩3,000,000 (total)
+
+- Silver Prize, Digital Contents Society (2024)
+- Silver Prize Datathon, Uni-D (2023)
+- 3rd Prize, SWignature, CCSSAA (2023)
+- Gold Prize, Datathon, Uni-D (2022)
+- Excellence Prize in Project, Engineering Education Innovation Center, CAU (2021)
 
 
 ## Leadership
