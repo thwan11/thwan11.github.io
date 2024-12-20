@@ -28,6 +28,7 @@ author:
   location         : "Seoul, Republic of Korea"
   employer         : "Chung-Ang University"
   uri              : #"https://thwan11.github.io"
+  cv               : "/files/CV_TaehwanKim.pdf"
   email            : "dmkthwan11@gmail.com" 
 
   # Academic websites
@@ -74,7 +75,6 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-  cv               : "/files/CV_TaehwanKim.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
