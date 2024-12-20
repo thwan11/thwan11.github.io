@@ -74,6 +74,8 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  cv               : /files/CV_TaehwanKim.pdf
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
