@@ -22,3 +22,13 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 - Research Intern ([Intelligent Multimodal Reasoning Lab](https://sites.google.com/view/imr-lab), Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Aug 2023 - Dec 2024)</span>
   - Topic: Diffusion models
   - Supervised by Professor Junyeong Kim
+
+
+## Honors and Awards
+
+
+## Leadership
+- President (CUAI, Chung-Ang University, Seoul, Korea)
+  - President of Chung-Ang University Artificial Intelligence, CUAI, Chung-Ang University
+- General Manager (Department of Artificial Intelligence, Chung-Ang University, Seoul, Korea)
+  - General manager of under graduate school council of Department of Artificial Intelligence, Chung-Ang University
