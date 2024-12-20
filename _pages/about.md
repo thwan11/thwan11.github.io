@@ -38,7 +38,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 
 
 ## Leadership
-- President (CUAI, Chung-Ang University, Seoul, Korea)
+- President (CUAI, Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Mar 2024 - Now)</span>
   - President of Chung-Ang University Artificial Intelligence, CUAI, Chung-Ang University
-- General Manager (Department of Artificial Intelligence, Chung-Ang University, Seoul, Korea)
+- General Manager (Department of Artificial Intelligence, Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Jul 2022 - Dec 2023)</span>
   - General manager of under graduate school council of Department of Artificial Intelligence, Chung-Ang University
