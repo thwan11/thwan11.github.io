@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a undergraduate student in the Department of Artificial Intelligence at Chung-Ang University, working as a member of the [CVLab](https://cvlab.kaist.ac.kr/home), advised by Professor Seungryong Kim. My research lies in the areas of computer vision and deep learning, especially in the diffusion models and visual correspondence. If you are interested in my research projects, feel free to contact me via email or visit my Github and LinkedIn.
+I am a undergraduate student in the Department of Artificial Intelligence at Chung-Ang University, working as a member of the [CVLab](https://cvlab.kaist.ac.kr/home), advised by Professor Seungryong Kim. My research lies in the areas of computer vision and deep learning, especially in the diffusion models and visual correspondence. If you are interested in my research projects, feel free to contact me via email or visit my Github.
 
 
 ## Education
