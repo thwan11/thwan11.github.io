@@ -19,7 +19,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 - Research Intern ([CVLab](https://cvlab.kaist.ac.kr/home), KAIST, Seoul, Korea) <span style="float: right; font-weight: bold;">(Dec 2024 - Now)</span>
   - Topic: Diffusion models, Visual Correspondience
   - Supervised by Professor Seungryong Kim
-- Research Intern ([Intelligent Multimodal Reasoning Lab](https://sites.google.com/view/imr-lab), Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Aug 2023 - Dec 2024)</span>
+- Research Intern ([IMR Lab](https://sites.google.com/view/imr-lab), Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Aug 2023 - Dec 2024)</span>
   - Topic: Diffusion models
   - Supervised by Professor Junyeong Kim
 
