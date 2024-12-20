@@ -27,7 +27,7 @@ author:
   bio              : "Undergraduate student"
   location         : "Seoul, Republic of Korea"
   employer         : "Chung-Ang University"
-  uri              : #
+  uri              : "https://thwan11.github.io"
   email            : "dmkthwan11@gmail.com" 
 
   # Academic websites
@@ -75,7 +75,7 @@ author:
   zhihu            : # Username
 
   cv               : "/files/CV_TaehwanKim.pdf"
-  
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
