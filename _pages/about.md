@@ -12,7 +12,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 ## Education
 [Chung-Ang University](https://neweng.cau.ac.kr/index.do), Seoul, Korea <span style="float: right; font-weight: bold;">(Mar 2022 - Now)</span>
 - B.S. Student in Artificial Intelligence
-- Advisor: Professor [Junyeong Kim](https://scholar.google.com/citations?user=pAww37cAAAAJ) \| GPA: 4.42/4.5
+- Advisor: Professor [Junyeong Kim](https://scholar.google.com/citations?user=pAww37cAAAAJ) \| GPA: 4.43/4.5
 
 
 ## Research experience
