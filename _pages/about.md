@@ -16,7 +16,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 
 
 ## Research experience
-- Research Intern ([CVLab](https://cvlab.kaist.ac.kr/home), KAIST, Seoul, Korea) <span style="float: right; font-weight: bold;">(Dec 2024 - Now)</span>
+- Research Intern ([CVLab](https://cvlab.kaist.ac.kr/home), KAIST, Seoul, Korea) <span style="float: right; font-weight: bold;">(Jan 2025 - Now)</span>
   - Topic: Diffusion models, Visual Correspondience
   - Supervised by Professor Seungryong Kim
 - Research Intern ([IMR Lab](https://sites.google.com/view/imr-lab), Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Aug 2023 - Dec 2024)</span>
@@ -28,7 +28,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 - Chung-Ang University Alumni Association Schollarship Fellowship (2024), Winner - ₩1,000,000
 - Seoul Scholarship Foundation Fellowship (2024), Winner - ₩4,000,000
 - 54th The Korea Scholarship Foundation for the Future Leaders Fellowship, 2024, Winner - ₩11,000,000 (total)
-- Dean’s List, CAU (2022 Fall, 2023 Spring, 2023 Fall) - ₩3,000,000 (total)
+- Dean’s List, CAU (2022 Fall, 2023 Spring, 2023 Fall, 2024 Fall) - ₩3,000,000 (total)
 
 - Silver Prize, Digital Contents Society (2024)
 - Silver Prize Datathon, Uni-D (2023)
@@ -38,7 +38,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 
 
 ## Leadership
-- President (CUAI, Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Mar 2024 - Now)</span>
+- President (CUAI, Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Mar 2024 - Feb 2025)</span>
   - President of Chung-Ang University Artificial Intelligence, CUAI, Chung-Ang University
 - General Manager (Dept. of AI, Chung-Ang University, Seoul, Korea) <span style="float: right; font-weight: bold;">(Jul 2022 - Dec 2023)</span>
   - General manager of under graduate school council of Department of Artificial Intelligence, Chung-Ang University
