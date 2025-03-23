@@ -32,7 +32,7 @@ I am a undergraduate student in the Department of Artificial Intelligence at Chu
 
 - Silver Prize, Digital Contents Society (2024)
 - Silver Prize Datathon, Uni-D (2023)
-- 3rd Prize, SWignature, CCSSAA (2023)
+- 3rd Prize, SWgnature, CCSSAA (2023)
 - Gold Prize, Datathon, Uni-D (2022)
 - Excellence Prize in Project, Engineering Education Innovation Center, CAU (2022)
 
